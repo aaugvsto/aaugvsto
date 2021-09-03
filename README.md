@@ -5,7 +5,7 @@
 💬 Contatos: 
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/augustoflass@gmail.com" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/augustoflass@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
   <a href="link=https://www.linkedin.com/in/augusto-assis-03a268197/" alt="Linkedin">
