@@ -5,13 +5,13 @@
 💬 Contatos: 
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/augustoflass@gmail.com" target="_blank" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/augustoflass@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
   
-  <a href="link=https://www.linkedin.com/in/augusto-assis-03a268197/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=appveyor&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/augusto-assis-03a268197/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   
-   <a href="https://t.me/aaugvsto" target="_blank" alt="Telegram">
+   <a href="https://t.me/aaugvsto" alt="Telegram">
   <img src="https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white" /></a>
 
 </p>
