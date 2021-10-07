@@ -29,7 +29,7 @@ Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code><br><br>
   
-<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaugvsto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaugvsto&layout=compact&langs_count=7&theme=dracula"/>
 
   ![Snake animation](https://github.com/aaugvsto/aaugvsto/blob/output/github-contribution-grid-snake.svg)
 </div>
