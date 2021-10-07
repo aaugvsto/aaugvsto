@@ -1,4 +1,6 @@
-## Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong> 
+<div align="center">
+## Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong>
+<div>
 <div align="center">
 💼 Atuamente estagiando como desenvolvedor na Reply Brasil em Belo Horizonte.
 </div><br>
