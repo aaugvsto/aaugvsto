@@ -1,7 +1,7 @@
 ## Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong> 
 <div align="center">
 💼 Atuamente estagiando como desenvolvedor na Reply Brasil em Belo Horizonte.
-</div>
+</div><br>
 
 <div align="center">
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
