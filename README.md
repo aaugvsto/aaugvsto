@@ -19,7 +19,7 @@ Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong>
   <h1>Minhas Skills 🚀</h1>
 </div>
 
-<img height="180em" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoLucca&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaugvsto&layout=compact&langs_count=7&theme=dark"/>
 
 <div align="center">  
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c#"/></code>
