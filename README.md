@@ -1,5 +1,5 @@
 ## Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong> 
-----
+
 💼 Atuamente estagiando como desenvolvedor na Reply Brasil em Belo Horizonte.
 
 💬 Contatos: 
