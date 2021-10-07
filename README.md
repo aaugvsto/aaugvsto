@@ -15,8 +15,9 @@
   <img src="https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white" /></a>
 
 </p>
+<div align="center">
 🚀 Minhas Skills
-
+</div>
 ---
 
 <div align="center">  
