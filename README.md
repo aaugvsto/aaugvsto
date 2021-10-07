@@ -20,9 +20,6 @@ Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong>
 </div>
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaugvsto&layout=compact&langs_count=7&theme=dracula"/><br>
-  
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c#"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -31,6 +28,9 @@ Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaugvsto&layout=compact&langs_count=7&theme=dracula"/><br>
+  
+
   
   ![Snake animation](https://github.com/aaugvsto/aaugvsto/blob/output/github-contribution-grid-snake.svg)
 </div>
