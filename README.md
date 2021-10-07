@@ -16,7 +16,7 @@
 
 </p>
 <div align="center">
-🚀 Minhas Skills
+ Minhas Skills 🚀
 </div>
 
 ---
