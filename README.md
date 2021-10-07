@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
 Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong>
-<div>
+<h1>
   
 <div align="center">
 💼 Atuamente estagiando como desenvolvedor na Reply Brasil em Belo Horizonte.
