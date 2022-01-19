@@ -3,7 +3,7 @@ Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong>
 </h3>
   
 <div align="center">
-💼 Atuamente estagiando na Reply Brasil em Belo Horizonte.
+💼 Atualmente estagiando na Reply Brasil em Belo Horizonte.
 </div><br>
 
 <div align="center">
