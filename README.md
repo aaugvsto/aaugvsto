@@ -15,7 +15,7 @@ Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong>
 
 </p>
 <div align="center">
-  <h1>Minhas Skills 🚀</h1>
+  <h1>Minhas Skills</h1>
 </div>
 
 <div align="center">
