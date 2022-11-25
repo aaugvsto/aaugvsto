@@ -1,11 +1,3 @@
-<h3 align="center">
-Bom te ver por aqui 😁, prazer eu sou o  <strong>Augusto 👨‍💻</strong>
-</h3>
-  
-<div align="center">
-💼 Atualmente estagiando na Reply Brasil em Belo Horizonte.
-</div><br>
-
 <div align="center">
   <a href = "mailto:augustoflass@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-assis-03a268197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
